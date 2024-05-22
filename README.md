@@ -24,16 +24,15 @@ git clone https://github.com/knightfiury/Home-Automation-System.git
 cd Home-Automation-System
 ```
 
-### Install dependencies
-
+### Navigate to the **bin** directory and compile the Java files
 ```bash
-pip install -r requirements.txt
+cd bin
+javac ../src/*.java
 ```
 
-### Run the application:
-
+### Run the application
 ```bash
-python app.py
+java Main
 ```
 
 ## Usage
@@ -48,5 +47,5 @@ The new credentials will be used for login.
 We welcome contributions to improve the Home Automation System. If you have suggestions or improvements, please fork the repository and create a pull request. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License.
 
