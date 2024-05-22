@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/KnightFiury/Home-Automation-System)
 
 
-# Home-Automation-System
+# Home Automation System
 Welcome to the Home Automation System project. This system allows you to control and monitor various aspects of your home through a user-friendly interface.
 The Home Automation System is designed to make your home smarter and your life easier. With this system, you can control lights, temperature, security systems, and more, all from a central interface.
 
