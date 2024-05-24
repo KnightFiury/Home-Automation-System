@@ -44,8 +44,7 @@ class HomeAutomationManager {
     public boolean hasPermission(String username, String permission) {
         String role = userRoles.get(username);
         if (role != null) {
-            // Implement role-based permissions logic here
-            return true; // For demonstration, allow all users
+            return true; 
         }
         return false;
     }
